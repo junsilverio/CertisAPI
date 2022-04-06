@@ -1,0 +1,12 @@
+D:\Projects\Centris\Centris.CoreApi\Centris.Core.Repository\bin\Debug\netcoreapp3.1\Centris.Core.Repository.deps.json
+D:\Projects\Centris\Centris.CoreApi\Centris.Core.Repository\bin\Debug\netcoreapp3.1\Centris.Core.Repository.dll
+D:\Projects\Centris\Centris.CoreApi\Centris.Core.Repository\bin\Debug\netcoreapp3.1\Centris.Core.Repository.pdb
+D:\Projects\Centris\Centris.CoreApi\Centris.Core.Repository\bin\Debug\netcoreapp3.1\Centris.Core.Entities.dll
+D:\Projects\Centris\Centris.CoreApi\Centris.Core.Repository\bin\Debug\netcoreapp3.1\Centris.Core.Entities.pdb
+D:\Projects\Centris\Centris.CoreApi\Centris.Core.Repository\obj\Debug\netcoreapp3.1\Centris.Core.Repository.csprojAssemblyReference.cache
+D:\Projects\Centris\Centris.CoreApi\Centris.Core.Repository\obj\Debug\netcoreapp3.1\Centris.Core.Repository.AssemblyInfoInputs.cache
+D:\Projects\Centris\Centris.CoreApi\Centris.Core.Repository\obj\Debug\netcoreapp3.1\Centris.Core.Repository.AssemblyInfo.cs
+D:\Projects\Centris\Centris.CoreApi\Centris.Core.Repository\obj\Debug\netcoreapp3.1\Centris.Core.Repository.csproj.CoreCompileInputs.cache
+D:\Projects\Centris\Centris.CoreApi\Centris.Core.Repository\obj\Debug\netcoreapp3.1\Centris.Core.Repository.csproj.CopyComplete
+D:\Projects\Centris\Centris.CoreApi\Centris.Core.Repository\obj\Debug\netcoreapp3.1\Centris.Core.Repository.dll
+D:\Projects\Centris\Centris.CoreApi\Centris.Core.Repository\obj\Debug\netcoreapp3.1\Centris.Core.Repository.pdb

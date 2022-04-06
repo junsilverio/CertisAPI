@@ -1,0 +1,14 @@
+D:\Projects\Certis\Certis.CoreApi\Certis.Core.Service\bin\Debug\netcoreapp3.1\Certis.Core.Service.deps.json
+D:\Projects\Certis\Certis.CoreApi\Certis.Core.Service\bin\Debug\netcoreapp3.1\Certis.Core.Service.dll
+D:\Projects\Certis\Certis.CoreApi\Certis.Core.Service\bin\Debug\netcoreapp3.1\Certis.Core.Service.pdb
+D:\Projects\Certis\Certis.CoreApi\Certis.Core.Service\bin\Debug\netcoreapp3.1\Certis.Core.Entities.dll
+D:\Projects\Certis\Certis.CoreApi\Certis.Core.Service\bin\Debug\netcoreapp3.1\Certis.Core.Repository.dll
+D:\Projects\Certis\Certis.CoreApi\Certis.Core.Service\bin\Debug\netcoreapp3.1\Certis.Core.Entities.pdb
+D:\Projects\Certis\Certis.CoreApi\Certis.Core.Service\bin\Debug\netcoreapp3.1\Certis.Core.Repository.pdb
+D:\Projects\Certis\Certis.CoreApi\Certis.Core.Service\obj\Debug\netcoreapp3.1\Certis.Core.Service.csprojAssemblyReference.cache
+D:\Projects\Certis\Certis.CoreApi\Certis.Core.Service\obj\Debug\netcoreapp3.1\Certis.Core.Service.AssemblyInfoInputs.cache
+D:\Projects\Certis\Certis.CoreApi\Certis.Core.Service\obj\Debug\netcoreapp3.1\Certis.Core.Service.AssemblyInfo.cs
+D:\Projects\Certis\Certis.CoreApi\Certis.Core.Service\obj\Debug\netcoreapp3.1\Certis.Core.Service.csproj.CoreCompileInputs.cache
+D:\Projects\Certis\Certis.CoreApi\Certis.Core.Service\obj\Debug\netcoreapp3.1\Certis.Core.Service.csproj.CopyComplete
+D:\Projects\Certis\Certis.CoreApi\Certis.Core.Service\obj\Debug\netcoreapp3.1\Certis.Core.Service.dll
+D:\Projects\Certis\Certis.CoreApi\Certis.Core.Service\obj\Debug\netcoreapp3.1\Certis.Core.Service.pdb

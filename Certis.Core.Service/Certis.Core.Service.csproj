@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Certis.Core.Entities\Certis.Core.Entities.csproj" />
+    <ProjectReference Include="..\Certis.Core.Repository\Certis.Core.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

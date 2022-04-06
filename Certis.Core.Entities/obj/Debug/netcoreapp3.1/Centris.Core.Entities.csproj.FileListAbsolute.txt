@@ -1,0 +1,12 @@
+D:\Projects\Centris\Centris.CoreApi\Centris.Core.Entities\bin\Debug\netcoreapp3.1\Centris.Core.Entities.deps.json
+D:\Projects\Centris\Centris.CoreApi\Centris.Core.Entities\bin\Debug\netcoreapp3.1\Centris.Core.Entities.dll
+D:\Projects\Centris\Centris.CoreApi\Centris.Core.Entities\bin\Debug\netcoreapp3.1\Centris.Core.Entities.pdb
+D:\Projects\Centris\Centris.CoreApi\Centris.Core.Entities\obj\Debug\netcoreapp3.1\Centris.Core.Entities.csprojAssemblyReference.cache
+D:\Projects\Centris\Centris.CoreApi\Centris.Core.Entities\obj\Debug\netcoreapp3.1\Centris.Core.Entities.AssemblyInfoInputs.cache
+D:\Projects\Centris\Centris.CoreApi\Centris.Core.Entities\obj\Debug\netcoreapp3.1\Centris.Core.Entities.AssemblyInfo.cs
+D:\Projects\Centris\Centris.CoreApi\Centris.Core.Entities\obj\Debug\netcoreapp3.1\Centris.Core.Entities.csproj.CoreCompileInputs.cache
+D:\Projects\Centris\Centris.CoreApi\Centris.Core.Entities\obj\Debug\netcoreapp3.1\Centris.Core.Entities.dll
+D:\Projects\Centris\Centris.CoreApi\Centris.Core.Entities\obj\Debug\netcoreapp3.1\Centris.Core.Entities.pdb
+D:\Projects\Centris\Centris.CoreApi\Centris.Core.Entities\bin\Debug\netcoreapp3.1\Centris.Core.Entities.runtimeconfig.json
+D:\Projects\Centris\Centris.CoreApi\Centris.Core.Entities\bin\Debug\netcoreapp3.1\Centris.Core.Entities.runtimeconfig.dev.json
+D:\Projects\Centris\Centris.CoreApi\Centris.Core.Entities\obj\Debug\netcoreapp3.1\Centris.Core.Entities.genruntimeconfig.cache
